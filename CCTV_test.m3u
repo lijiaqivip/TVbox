@@ -491,20 +491,14 @@ http://113.64.145.91:8081/hls/38/index.m3u8
 http://113.64.145.195:8081/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="PH03" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix3.png" group-title="港澳台",凤凰香港
 http://103.95.24.37:880/fhxgt.m3u8
-#EXTINF:-1 tvg-id="xg01" tvg-name="TVB翡翠台" tvg-logo="https://upload.112114.xyz/logo/TVBFEICUITAI.png" group-title="港澳台",TVB翡翠台
-https://iptv.hiper25.com/TVB/video.m3u8
-#EXTINF:-1 tvg-id="xg02" tvg-name="TVB明珠台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png" group-title="港澳台",TVB明珠台
-https://iptv.hiper25.com/Pearl/video.m3u8
 #EXTINF:-1 tvg-id="xg03" tvg-name="TVB无线新闻" tvg-logo="https://upload.112114.xyz/logo/TVB4.png" group-title="港澳台",TVB无线新闻
 http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="xg04" tvg-name="TVB无线财经" tvg-logo="https://upload.112114.xyz/logo/TVB5.png" group-title="港澳台",TVB无线财经
 http://live.cooltv.top/tv/tvb.php?id=2&hq
-#EXTINF:-1 tvg-id="xg05" tvg-name="澳门澳视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi1.png" group-title="港澳台",澳门澳视
-https://iptv.hiper25.com/TDM/video.m3u8
 #EXTINF:-1 tvg-name="澳门澳视" group-title="港澳台",台视新闻HD
 https://epg.pw/stream/4c8adef47c01115677bc13b65593946135e6fe8c470fad1db810248c3ca10150.m3u8
 
-
+#国际频道
 #EXTINF:-1 tvg-id="N02" tvg-name="News 12 New York" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="国际频道",News 12 New York
 https://lnc-news12.tubi.video/index.m3u8
 #EXTINF:-1 group-title="国际频道",CNN
