@@ -67,8 +67,10 @@ http://61.190.129.195:8686/rtp/238.1.79.59:4608
 http://61.190.129.195:8686/rtp/238.1.78.158:7136
 #EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="央视高清",CETV2
 http://61.190.129.195:8686/rtp/238.1.78.106:6720
-#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="央视高清",CETV4
-http://61.190.129.195:8686/rtp/238.1.78.107:6728
+#EXTINF:-1 tvg-id="CETV3" tvg-name="CETV3" tvg-logo="https://epg.112114.xyz/logo/CETV3.png" group-title="央视高清",CETV3
+http://221.219.66.252:18888/rtp/239.3.1.55:4120
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="央视高清",CETV4HD
+http://118.254.203.236:8888/rtp/239.76.252.254:9000
 
 #EXTINF:-1 tvg-id="CGTN 新闻[高清]" tvg-name="CGTN 新闻[高清]" tvg-logo="https://epg.112114.xyz/logo/CGTN新闻.png" group-title="央视国际",CGTN 新闻[高清]
 http://221.219.66.252:18888/rtp/239.3.1.215:4220
