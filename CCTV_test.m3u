@@ -432,82 +432,19 @@ http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000328/index.m3u8?
 http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000330/index.m3u8?
 
 #河北
-#EXTINF:-1 tvg-id="HB01" tvg-name="河北生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hebei1.png" group-title="河北",河北生活
-http://121.24.98.186:8090/hls/26/index.m3u8
-#EXTINF:-1 tvg-id="HB02" tvg-name="河北农民 tvg-logo=" group-title="河北",河北农民
-http://121.24.98.186:8090/hls/27/index.m3u8
-#EXTINF:-1 tvg-id="HB03" tvg-name="河北都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hebei2.png" group-title="河北",河北都市
-http://121.24.98.186:8090/hls/28/index.m3u8
-#EXTINF:-1 tvg-id="HB03" tvg-name="河北少儿科教" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hebei4.png" group-title="河北",河北少儿科教
-http://121.24.98.186:8090/hls/30/index.m3u8
-#EXTINF:-1 tvg-id="HB03" tvg-name="河北公共" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hebei5.png" group-title="河北",河北公共
-http://121.24.98.186:8090/hls/31/index.m3u8
+
 
 #广东
-#EXTINF:-1 tvg-id="GD01" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="广东",广东珠江
-http://222.218.159.162:8181/tsfile/live/1000_1.m3u8
-#EXTINF:-1 tvg-id="GD02" tvg-name="广东新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong1.png" group-title="广东",广东新闻
-http://183.54.208.197:9999/udp/239.77.0.173:5146
-#EXTINF:-1 tvg-id="GD03" tvg-name="广东民生" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong2.png" group-title="广东",广东民生
-http://183.54.208.197:9999/udp/239.77.0.225:5146
-#EXTINF:-1 tvg-id="GD04" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong5.png" group-title="广东",广东体育
-http://183.54.208.197:9999/udp/239.77.0.112:5146
-#EXTINF:-1 tvg-id="GD05" tvg-name="广东经济科教" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong7.png" group-title="广东",广东经济科教
-http://183.54.208.197:9999/udp/239.77.0.85:5146
-#EXTINF:-1 tvg-id="GD06" tvg-name="广东大湾区卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong10.png" group-title="广东",广东大湾区卫视
-http://113.74.172.130:4000/udp/239.77.0.215:5146
-#EXTINF:-1 tvg-id="GD07" tvg-name="广东影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong3.png" group-title="广东",广东影视
-http://183.54.208.197:9999/udp/239.77.0.217:5146
-#EXTINF:-1 tvg-id="GD08" tvg-name="广州南国都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广州南国都市.png" group-title="广东",南国都市
-http://183.54.208.197:9999/udp/239.253.43.99:5146
-#EXTINF:-1 tvg-id="GD09" tvg-name="岭南戏曲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong11.png" group-title="广东",岭南戏曲
-http://14.19.199.43:8089/hls/28/index.m3u8
+
 
 #四川
-#EXTINF:-1 tvg-id="SC01" tvg-name="四川经济" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan1.png" group-title="四川",四川经济
-http://182.149.204.14:4000/udp/239.93.1.101:5140
-#EXTINF:-1 tvg-id="SC02" tvg-name="四川文化旅游" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan2.png" group-title="四川",四川文化旅游
-http://182.149.204.14:4000/udp/239.93.1.102:5140
-#EXTINF:-1 tvg-id="SC03" tvg-name="四川妇女儿童" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan5.png" group-title="四川",四川妇女儿童
-http://182.149.204.14:4000/udp/239.93.0.219:5140
-#EXTINF:-1 tvg-id="SC04" tvg-name="四川影视文艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan4.png" group-title="四川",四川影视文艺
-http://182.149.204.14:4000/udp/239.93.0.166:5140
-#EXTINF:-1 tvg-id="SC05" tvg-name="四川新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan3.png" group-title="四川",四川新闻
-http://182.149.204.14:4000/udp/239.93.0.47:5140
-#EXTINF:-1 tvg-id="SC06" tvg-name="四川公共乡村" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan6.png" group-title="四川",四川公共乡村
-http://182.149.204.14:4000/udp/239.93.0.52:5140
+
 
 #福建
-#EXTINF:-1 tvg-id="FJ01" tvg-name="福建电视剧" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian4.png" group-title="福建",福建电视剧
-http://xxw.me0.cn/api/bestv.php?id=fjdsj
-#EXTINF:-1 tvg-id="FJ02" tvg-name="福建公共" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian2.png" group-title="福建",福建公共
-http://xxw.me0.cn/api/bestv.php?id=fjgg
-#EXTINF:-1 tvg-id="FJ03" tvg-name="福建旅游" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian5.png" group-title="福建",福建旅游
-http://xxw.me0.cn/api/bestv.php?id=fjly
-#EXTINF:-1 tvg-id="FJ04" tvg-name="福建少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian8.png" group-title="福建",福建少儿
-http://xxw.me0.cn/api/bestv.php?id=fjse
-#EXTINF:-1 tvg-id="FJ05" tvg-name="福建文体" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian7.png" group-title="福建",福建文体
-http://xxw.me0.cn/api/bestv.php?id=fjwt
-#EXTINF:-1 tvg-id="FJ06" tvg-name="福建新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian3.png" group-title="福建",福建新闻
-http://xxw.me0.cn/api/bestv.php?id=fjxw
-#EXTINF:-1 tvg-id="FJ07" tvg-name="福建综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian1.png" group-title="福建",福建综合
-http://xxw.me0.cn/api/bestv.php?id=fjzh
+
 
 #吉林
-#EXTINF:-1 tvg-id="J01" tvg-name="吉林都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin2.png" group-title="吉林",吉林都市
-http://gongzhuling.lnott.top:9999/hls/19/index.m3u8
-#EXTINF:-1 tvg-id="J02" tvg-name="吉林生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin3.png" group-title="吉林",吉林生活
-http://gongzhuling.lnott.top:9999/hls/20/index.m3u8
-#EXTINF:-1 tvg-id="J03" tvg-name="吉林影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin4.png" group-title="吉林",吉林影视
-http://gongzhuling.lnott.top:9999/hls/21/index.m3u8
-#EXTINF:-1 tvg-id="J04" tvg-name="吉林乡村" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin5.png" group-title="吉林",吉林乡村
-http://gongzhuling.lnott.top:9999/hls/22/index.m3u8
-#EXTINF:-1 tvg-id="J05" tvg-name="吉林公共" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin1.png" group-title="吉林",吉林公共
-http://gongzhuling.lnott.top:9999/hls/23/index.m3u8
-#EXTINF:-1 tvg-id="J06" tvg-name="吉林综艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin6.png" group-title="吉林",吉林综艺
-http://gongzhuling.lnott.top:9999/hls/24/index.m3u8
-#EXTINF:-1 tvg-id="J07" tvg-name="吉林教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin.png" group-title="吉林",吉林教育
-http://gongzhuling.lnott.top:9999/hls/27/index.m3u8
+
 
 #内蒙古
 #EXTINF:-1 tvg-id="NM01" tvg-name="内蒙古蒙古语卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Neimeng.png" group-title="内蒙古",内蒙古蒙古语卫视
