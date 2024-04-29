@@ -19,6 +19,7 @@ http://111.15.174.107:8969/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=
 http://111.15.174.107:8969/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 group-title="央视频道",CCTV6
+http://61.190.129.195:8686/rtp/238.1.78.172:7248
 
 #EXTINF:-1 group-title="央视频道",CCTV7
 http://223.112.219.174:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -29,9 +30,9 @@ http://111.15.174.107:8969/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=
 
 
 #EXTINF:-1 group-title="央视频道",CCTV9
-
+http://61.190.129.195:8686/rtp/238.1.78.240:7792
 #EXTINF:-1 group-title="央视频道",CCTV10
-
+http://61.190.129.195:8686/rtp/238.1.78.241:7800
 
 #EXTINF:-1 group-title="央视频道",CCTV11
 http://59.62.8.250:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
