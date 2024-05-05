@@ -48,6 +48,10 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道IPv4",CCTV-17 农业农村
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道IPv4",CCTV-4K 超高清
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+#EXTINF:-1 group-title="央视频道IPv4",CGTV
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+
+
 
 #央视频道IPv6
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道IPv6",CCTV-1
@@ -462,6 +466,17 @@ https://epg.pw/stream/4c8adef47c01115677bc13b65593946135e6fe8c470fad1db810248c3c
 #EXTINF:-1 tvg-name="TVBS" group-title="港澳台",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 
+#韩国
+#EXTINF:-1 group-title="韩国",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 group-title="韩国",SBS
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 group-title="韩国",CJB청주방송(SBS淸州)
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 group-title="韩国",TJB대전방송(SBS大田)
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+
+
 #国际频道
 #EXTINF:-1 tvg-id="N02" tvg-name="News 12 New York" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="国际频道",News 12 New York
 https://lnc-news12.tubi.video/index.m3u8
@@ -507,8 +522,7 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 #EXTINF:-1 group-title="国际频道",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 group-title="国际频道",KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
 #EXTINF:-1 group-title="国际频道",Bloomberg Asia
 https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
 #EXTINF:-1 group-title="国际频道",Bloomberg Originals
