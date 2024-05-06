@@ -14,15 +14,15 @@ http://64.140.167.170:8080/live/fjydcctv3/hls.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV4
 http://125.210.150.58:9090/live/hzgq-cctv4gq-h264.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV5
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 group-title="央视频道IPv4",CCTV5
 http://64.140.167.170:8080/live/CCTV5/hls.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV5
 http://125.210.150.58:9090/live/hzgq-cctv5gq-h264.m3u8
-#EXTINF:-1 group-title="央视频道IPv4",CCTV5+
-https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 group-title="央视频道IPv4",CCTV5
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV5+
 http://64.140.167.170:8080/live/fjydcctv5p/hls.m3u8
+#EXTINF:-1 group-title="央视频道IPv4",CCTV5+
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV6
 https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV7
