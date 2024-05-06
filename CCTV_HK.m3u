@@ -6,23 +6,31 @@ http://61.190.129.195:8686/rtp/238.1.78.166:7200
 #EXTINF:-1 group-title="央视频道IPv4",CCTV1
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV2
-http://111.15.174.107:8969/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道IPv4",CCTV2
 http://223.112.219.174:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道IPv4",CCTV3
-http://154.yfvodcdn.com:8080/live/jsydcctv3/hls.m3u8
+http://125.210.150.58:9090/live/hzgq-cctv3gq-h264.m3u8
+#EXTINF:-1 group-title="央视频道IPv4",CCTV3
+http://64.140.167.170:8080/live/fjydcctv3/hls.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV4
-http://111.15.174.107:8969/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://125.210.150.58:9090/live/hzgq-cctv4gq-h264.m3u8
+#EXTINF:-1 group-title="央视频道IPv4",CCTV5
+http://64.140.167.170:8080/live/CCTV5/hls.m3u8
+#EXTINF:-1 group-title="央视频道IPv4",CCTV5
+http://125.210.150.58:9090/live/hzgq-cctv5gq-h264.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 group-title="央视频道IPv4",CCTV5+
+http://64.140.167.170:8080/live/fjydcctv5p/hls.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV6
 https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV7
-http://223.112.219.174:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+http://125.210.150.58:9090/live/hzgq-cctv7gq-h264.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV7
-http://111.15.174.107:8969/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+http://64.140.167.170:8080/live/fjydcctv7/hls.m3u8
+#EXTINF:-1 group-title="央视频道IPv4",CCTV7
+http://223.112.219.174:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道IPv4",CCTV8
 http://61.190.129.195:8686/rtp/238.1.78.173:7256
 #EXTINF:-1 group-title="央视频道IPv4",CCTV9
@@ -37,6 +45,10 @@ http://223.112.219.174:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV13
 http://223.112.219.174:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道IPv4",CCTV14
+http://64.140.167.170:8080/live/fjydcctv14/hls.m3u8
+#EXTINF:-1 group-title="央视频道IPv4",CCTV14
+http://125.210.150.58:9090/live/hzgq-cctvsegq-h264.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV14
 http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575603.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV15
