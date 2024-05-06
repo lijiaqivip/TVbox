@@ -46,6 +46,10 @@ https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV13
 http://223.112.219.174:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道IPv4",CCTV14
+http://64.140.167.170:8080/live/fjydcctv14/hls.m3u8
+#EXTINF:-1 group-title="央视频道IPv4",CCTV14
+http://125.210.150.58:9090/live/hzgq-cctvsegq-h264.m3u8
+#EXTINF:-1 group-title="央视频道IPv4",CCTV14
 http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575603.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV15
 http://59.62.8.250:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
