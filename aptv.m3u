@@ -6,51 +6,39 @@ http://61.190.129.195:8686/rtp/238.1.78.166:7200
 #EXTINF:-1 group-title="央视频道IPv4",CCTV1
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV2
-http://223.112.219.174:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:-1 group-title="央视频道IPv4",CCTV2
+http://125.210.150.58:9090/live/hzgq-cctv2gq-h264.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV3
 http://125.210.150.58:9090/live/hzgq-cctv3gq-h264.m3u8
-#EXTINF:-1 group-title="央视频道IPv4",CCTV3
-http://64.140.167.170:8080/live/fjydcctv3/hls.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV4
 http://125.210.150.58:9090/live/hzgq-cctv4gq-h264.m3u8
-#EXTINF:-1 group-title="央视频道IPv4",CCTV5
-http://64.140.167.170:8080/live/CCTV5/hls.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV5
 http://125.210.150.58:9090/live/hzgq-cctv5gq-h264.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV5+
-http://64.140.167.170:8080/live/fjydcctv5p/hls.m3u8
-#EXTINF:-1 group-title="央视频道IPv4",CCTV5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV6
 https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV7
-http://125.210.150.58:9090/live/hzgq-cctv7gq-h264.m3u8
-#EXTINF:-1 group-title="央视频道IPv4",CCTV7
-http://64.140.167.170:8080/live/fjydcctv7/hls.m3u8
-#EXTINF:-1 group-title="央视频道IPv4",CCTV7
 http://223.112.219.174:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道IPv4",CCTV7
+http://125.210.150.58:9090/live/hzgq-cctv7gq-h264.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV8
 http://61.190.129.195:8686/rtp/238.1.78.173:7256
 #EXTINF:-1 group-title="央视频道IPv4",CCTV9
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV10
-http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022573003.m3u8
+http://125.210.150.58:9090/live/hzgq-cctv10gq-h264.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV11
 http://59.62.8.250:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道IPv4",CCTV12
 http://223.112.219.174:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道IPv4",CCTV13
-https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
-#EXTINF:-1 group-title="央视频道IPv4",CCTV13
 http://223.112.219.174:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道IPv4",CCTV14
-http://64.140.167.170:8080/live/fjydcctv14/hls.m3u8
-#EXTINF:-1 group-title="央视频道IPv4",CCTV14
 http://125.210.150.58:9090/live/hzgq-cctvsegq-h264.m3u8
-#EXTINF:-1 group-title="央视频道IPv4",CCTV14
-http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575603.m3u8
 #EXTINF:-1 group-title="央视频道IPv4",CCTV15
 http://59.62.8.250:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道IPv4",CCTV15
@@ -114,19 +102,15 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
 
 #卫视频道IPv6
-#EXTINF:-1 group-title="卫视频道IPv6",北京卫视
-http://124.90.208.196:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道IPv6",湖南卫视
-http://116.21.120.137:4433/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道IPv6",湖南卫视
-http://223.112.219.174:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing0.png" group-title="卫视频道IPv6",北京卫视
+http://tvbox.netsite.cc/proxy/469197887/469197887.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道IPv6",湖南卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道IPv6",湖南卫视
+http://223.112.219.174:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="B02" tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang.png" group-title="卫视频道IPv6",浙江卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-#EXTINF:-1 group-title="卫视频道IPv6",浙江卫视
-http://116.21.120.137:4433/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道IPv6",黑龙江卫视
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang.png" group-title="卫视频道IPv6",黑龙江卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 #EXTINF:-1 tvg-id="B03" tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Dongfang.png" group-title="卫视频道IPv6",东方卫视
 http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225672/index.m3u8
@@ -134,8 +118,6 @@ http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225672/index.m3u8
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel55/index.m3u8
 #EXTINF:-1 tvg-id="B05" tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu.png" group-title="卫视频道IPv6",江苏卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-#EXTINF:-1 group-title="卫视频道IPv6",江苏卫视
-http://116.21.120.137:4433/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视频道IPv6",湖北卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 #EXTINF:-1 tvg-id="B06" tvg-name="安徽卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Anhui.png" group-title="卫视频道IPv6",安徽卫视
@@ -144,16 +126,12 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 #EXTINF:-1 tvg-id="B08" tvg-name="东南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Dongnan.png" group-title="卫视频道IPv6",东南卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225950/index.m3u8
-#EXTINF:-1 tvg-id="B09" tvg-name="甘肃卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gansu.png" group-title="卫视频道IPv6",甘肃卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010098/1.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="卫视频道IPv6",甘肃卫视HD
 http://61.190.129.195:8686/rtp/238.1.79.36:4400
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视频道IPv6",三沙卫视
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
+http://tvbox.netsite.cc/proxy/1337100319/1337100319.m3u8
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视频道IPv6",三沙卫视
 http://118.254.203.236:8888/rtp/239.76.253.74:9000
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视频道IPv6",三沙卫视
-http://tvbox.netsite.cc/proxy/1337100319/1337100319.m3u8
 #EXTINF:-1 tvg-id="B10" tvg-name="广东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangdong.png" group-title="卫视频道IPv6",广东卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 tvg-id="B11" tvg-name="广西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangxi.png" group-title="卫视频道IPv6",广西卫视
@@ -190,12 +168,10 @@ http://php.jdshipin.com:8880/xztv.php?id=ws
 http://php.jdshipin.com:8880/xztv.php?id=zy
 #EXTINF:-1 tvg-id="B32" tvg-name="内蒙古卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng.png" group-title="卫视频道IPv6",内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
-
 #EXTINF:-1 tvg-id="B33" tvg-name="宁夏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Ningxia.png" group-title="卫视频道IPv6",宁夏卫视
 https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
-
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" group-title="卫视频道IPv6",青海卫视
-http://118.254.203.236:8888/rtp/239.76.254.132:9000
+http://stream.qhbtv.com/qhws/sd/live.m3u8
 #EXTINF:-1 tvg-id="B36" tvg-name="康巴卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Kangba.png" group-title="卫视频道IPv6",康巴卫视
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 tvg-id="B41" tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HKS.png" group-title="卫视频道IPv6",香港卫视
