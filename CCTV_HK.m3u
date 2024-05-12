@@ -2,9 +2,9 @@
 
 #央视IPv4
 #EXTINF:-1 group-title="央视IPv4",CCTV1
-http://61.190.129.195:8686/rtp/238.1.78.166:7200
-#EXTINF:-1 group-title="央视IPv4",CCTV1
 http://36.248.223.25/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576802.m3u8
+#EXTINF:-1 group-title="央视IPv4",CCTV1
+http://61.190.129.195:8686/rtp/238.1.78.166:7200
 #EXTINF:-1 group-title="央视IPv4",CCTV1
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="央视IPv4",CCTV2
@@ -111,13 +111,13 @@ http://tvbox.netsite.cc/proxy/846832031/846832031.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视IPv4",湖北卫视
 http://tvbox.netsite.cc/proxy/1513765070/1513765070.m3u8
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视IPv4",广西卫视
-http://tvbox.netsite.cc/proxy/1407270894/1407270894.m3u8
 http://36.248.223.25/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
+http://tvbox.netsite.cc/proxy/1407270894/1407270894.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视IPv4",四川卫视
 http://tvbox.netsite.cc/proxy/1364123916/1364123916.m3u8
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视IPv4",江西卫视
-http://tvbox.netsite.cc/proxy/1507547400/1507547400.m3u8
 http://36.248.223.25/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000294103.m3u8
+http://tvbox.netsite.cc/proxy/1507547400/1507547400.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视IPv4",河北卫视
 http://tvbox.netsite.cc/proxy/866823714/866823714.m3u8
 http://36.248.223.25/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000293403.m3u8
@@ -125,18 +125,18 @@ http://36.248.223.25/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000293403.
 http://36.248.223.25/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
 http://tvbox.netsite.cc/proxy/1555831884/1555831884.m3u8
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视IPv4",海南卫视
-http://tvbox.netsite.cc/proxy/1505336139/1505336139.m3u8
 http://36.248.223.25/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000291503.m3u8
+http://tvbox.netsite.cc/proxy/1505336139/1505336139.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视IPv4",东南卫视
-http://tvbox.netsite.cc/proxy/605886267/605886267.m3u8
 http://36.248.223.25/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000292503.m3u8
+http://tvbox.netsite.cc/proxy/605886267/605886267.m3u8
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视IPv4",贵州卫视
 http://tvbox.netsite.cc/proxy/344811278/344811278.m3u8
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视IPv4",吉林卫视
 #EXTINF:-1 tvg-id="B36" tvg-name="康巴卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Kangba.png" group-title="卫视IPv4",康巴卫视
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="卫视IPv4",云南卫视
-http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 http://59.62.8.250:9901/tsfile/live/0119_1.m3u8
+http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="卫视IPv4",甘肃卫视
 http://61.190.129.195:8686/rtp/238.1.79.36:4400
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视IPv4",陕西卫视
@@ -340,7 +340,8 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="北京",BRTV卡酷少儿
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUbM%2BtJ%2FIKUay0816q4f4FPN9pHjY5eGh1%2F3MQt0stvVIcNMY1ycEUDLSM33BfV5mc1yzDtp74FxRG%2BT%2ByX8dhHQ
-
+#EXTINF:-1 group-title="北京",房山无线频道
+https://epg.pw/stream/4db2d01f0c03ee3e658baf77e9ca0b8444c748087a3bfaf3c580418be24d0f94.m3u8
 
 #湖南
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/金鹰卡通.png" group-title="湖南",金鹰卡通
@@ -543,42 +544,27 @@ https://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
 #EXTINF:-1 tvg-id="JS08" tvg-name="靖江新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",靖江新闻综合
 rtmp://visit.jjbctv.com:1935/live/xwzhpc
 
-#港澳台
-#EXTINF:-1 tvg-id="PH01" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix1.png" group-title="港澳台",凤凰中文
-http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 tvg-id="PH01" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix1.png" group-title="港澳台",凤凰中文
+#港澳
+#EXTINF:-1 tvg-id="PH01" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix1.png" group-title="港澳",凤凰中文
+http://tvbox.netsite.cc/proxy/1846789161/1846789161.m3u8
+#EXTINF:-1 tvg-id="PH01" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix1.png" group-title="港澳",凤凰中文
 http://113.64.145.195:8081/hls/37/index.m3u8
-#EXTINF:-1 tvg-id="PH01" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix1.png" group-title="港澳台",凤凰中文
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
-#EXTINF:-1 tvg-id="PH02" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" group-title="港澳台",凤凰资讯
-https://edge2.laotv.la/live/PhoenixNews/index.m3u8
-#EXTINF:-1 tvg-id="PH02" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" group-title="港澳台",凤凰资讯
-http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-id="PH02" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" group-title="港澳台",凤凰资讯
+#EXTINF:-1 tvg-id="PH02" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" group-title="港澳",凤凰资讯
+http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+#EXTINF:-1 tvg-id="PH02" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" group-title="港澳",凤凰资讯
 http://113.64.145.195:8081/hls/36/index.m3u8
-#EXTINF:-1 tvg-id="PH03" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix3.png" group-title="港澳台",凤凰香港
-http://113.64.145.91:8081/hls/38/index.m3u8
-#EXTINF:-1 tvg-id="PH03" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix3.png" group-title="港澳台",凤凰香港
-http://113.64.145.195:8081/hls/38/index.m3u8
-#EXTINF:-1 tvg-id="PH03" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix3.png" group-title="港澳台",凤凰香港
+#EXTINF:-1 tvg-id="PH03" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix3.png" group-title="港澳",凤凰香港
 http://103.95.24.37:880/fhxgt.m3u8
-#EXTINF:-1 tvg-name="TVBS" group-title="港澳台",澳门卫视
-https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
-#EXTINF:-1 tvg-name="TVBS" group-title="港澳台",大爱1
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-name="TVBS" group-title="港澳台",大爱2
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-name="TVBS" group-title="港澳台",大爱2
-https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-name="TVBS" group-title="港澳台",TVBS
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 tvg-name="TVBS" group-title="港澳台",TVBS
+
+#EXTINF:-1 tvg-name="TVBS" group-title="港澳",TVBS-Asia
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 tvg-name="TVBS" group-title="港澳台",TVBS
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-name="澳门澳视" group-title="港澳台",台视新闻HD
+#EXTINF:-1 tvg-name="TVBS" group-title="港澳",澳门卫视
+https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
+
+#台湾
+#EXTINF:-1 tvg-name="澳门澳视" group-title="台湾",台视新闻HD
 https://epg.pw/stream/4c8adef47c01115677bc13b65593946135e6fe8c470fad1db810248c3ca10150.m3u8
-#EXTINF:-1 tvg-name="TVBS" group-title="港澳台",Taiwan Plus
+#EXTINF:-1 tvg-name="TVBS" group-title="台湾",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 
 
