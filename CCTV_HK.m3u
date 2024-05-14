@@ -131,7 +131,7 @@ http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="卫视IPv4",甘肃卫视
 http://61.190.129.195:8686/rtp/238.1.79.36:4400
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视IPv4",陕西卫视
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel55/index.m3u8
+
 #EXTINF:-1 tvg-id="B32" tvg-name="内蒙古卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng.png" group-title="卫视IPv4",内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 #EXTINF:-1 tvg-id="B33" tvg-name="宁夏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Ningxia.png" group-title="卫视IPv4",宁夏卫视
@@ -146,8 +146,6 @@ http://118.254.203.236:8888/rtp/239.76.253.74:9000
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="B31" tvg-name="西藏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xizang.png" group-title="卫视IPv4",西藏卫视
 http://php.jdshipin.com:8880/xztv.php?id=ws
-#EXTINF:-1 tvg-id="B31" tvg-name="西藏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xizang.png" group-title="卫视IPv4",西藏卫视
-http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel66/index.m3u8
 #EXTINF:-1 tvg-id="B31" tvg-name="西藏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xizang.png" group-title="卫视IPv4",西藏卫视藏语
 http://php.jdshipin.com:8880/xztv.php?id=zy
 
@@ -329,7 +327,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m
 #北京
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="北京",BRTV纪实科教
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-#EXTINF:-1 tvg-name="BRTV纪实科教8K" group-title="北京",BRTV纪实科教8K
+#EXTINF:-1 tvg-name="BRTV纪实科教8K" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="北京",BRTV纪实科教8K
 http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="北京",BRTV卡酷少儿
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUbM%2BtJ%2FIKUay0816q4f4FPN9pHjY5eGh1%2F3MQt0stvVIcNMY1ycEUDLSM33BfV5mc1yzDtp74FxRG%2BT%2ByX8dhHQ
