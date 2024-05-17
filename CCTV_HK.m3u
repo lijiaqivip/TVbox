@@ -2,7 +2,7 @@
 
 #央视IPv4
 #EXTINF:-1 group-title="央视IPv4",CCTV1
-http://64.140.167.170:8080/live/fjydcctv1/hls.m3u8
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="央视IPv4",CCTV1
 http://61.190.129.195:8686/rtp/238.1.78.166:7200
 #EXTINF:-1 group-title="央视IPv4",CCTV1
@@ -10,19 +10,19 @@ https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="央视IPv4",CCTV2
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 group-title="央视IPv4",CCTV3
-http://64.140.167.170:8080/live/fjydcctv3/hls.m3u8
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv38m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="央视IPv4",CCTV4
-http://64.140.167.170:8080/live/fjydcctv4/hls.m3u8
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv4hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="央视IPv4",CCTV5
+http://116.162.6.191/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41140/index.m3u8
 #EXTINF:-1 group-title="央视IPv4",CCTV5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="央视IPv4",CCTV5+
-http://64.140.167.170:8080/live/fjydcctv5p/hls.m3u8
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv5phd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="央视IPv4",CCTV5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 group-title="央视IPv4",CCTV6
 https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
-#EXTINF:-1 group-title="央视IPv4",CCTV7
-http://64.140.167.170:8080/live/fjydcctv7/hls.m3u8
 #EXTINF:-1 group-title="央视IPv4",CCTV7
 http://223.112.219.174:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视IPv4",CCTV8
@@ -31,24 +31,20 @@ http://61.190.129.195:8686/rtp/238.1.78.173:7256
 https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 #EXTINF:-1 group-title="央视IPv4",CCTV9
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-#EXTINF:-1 group-title="央视IPv4",CCTV9
-http://64.140.167.170:8080/live/fjydcctv9/hls.m3u8
 #EXTINF:-1 group-title="央视IPv4",CCTV10
-http://64.140.167.170:8080/live/fjydcctv10/hls.m3u8
-#EXTINF:-1 group-title="央视IPv4",CCTV11
-http://64.140.167.170:8080/live/fjydcctv11/hls.m3u8
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv10hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="央视IPv4",CCTV11
 http://59.62.8.250:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视IPv4",CCTV12
-http://64.140.167.170:8080/live/fjydcctv12/hls.m3u8
+#EXTINF:-1 group-title="央视IPv4",CCTV11
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv11hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="央视IPv4",CCTV12
 http://223.112.219.174:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视IPv4",CCTV13
-https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
-#EXTINF:-1 group-title="央视IPv4",CCTV13
 http://223.112.219.174:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视IPv4",CCTV13
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #EXTINF:-1 group-title="央视IPv4",CCTV14
-http://64.140.167.170:8080/live/fjydcctv14/hls.m3u8
+
 #EXTINF:-1 group-title="央视IPv4",CCTV15
 http://59.62.8.250:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视IPv4",CCTV15
@@ -63,11 +59,9 @@ http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 
 #卫视IPv4
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视IPv4",北京卫视
-http://64.140.167.170:8080/live/bjws/hls.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视IPv4",北京卫视
 http://tvbox.netsite.cc/proxy/469197887/469197887.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视IPv4",东方卫视
-http://64.140.167.170:8080/live/ydws2/hls.m3u8
+http://tvbox.netsite.cc/proxy/609485212/609485212.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视IPv4",天津卫视
 
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视IPv4",重庆卫视
@@ -90,8 +84,6 @@ http://223.112.219.174:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid
 http://tvbox.netsite.cc/proxy/823956387/823956387.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视IPv4",安徽卫视
 http://tvbox.netsite.cc/proxy/1453839032/1453839032.m3u8
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视IPv4",江苏卫视
-http://64.140.167.170:8080/live/ydws1/hls.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视IPv4",江苏卫视
 http://tvbox.netsite.cc/proxy/1561313428/1561313428.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视IPv4",浙江卫视
@@ -131,7 +123,7 @@ http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="卫视IPv4",甘肃卫视
 http://61.190.129.195:8686/rtp/238.1.79.36:4400
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视IPv4",陕西卫视
-
+http://tvbox.netsite.cc/proxy/917851306/917851306.m3u8
 #EXTINF:-1 tvg-id="B32" tvg-name="内蒙古卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng.png" group-title="卫视IPv4",内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 #EXTINF:-1 tvg-id="B33" tvg-name="宁夏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Ningxia.png" group-title="卫视IPv4",宁夏卫视
