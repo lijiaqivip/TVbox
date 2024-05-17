@@ -12,13 +12,13 @@ http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv38m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="央视IPv4",CCTV4
 http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv4hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="央视IPv4",CCTV5
-http://116.162.6.191/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41140/index.m3u8
-#EXTINF:-1 group-title="央视IPv4",CCTV5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 group-title="央视IPv4",CCTV5+
-https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 group-title="央视IPv4",CCTV5
+http://116.162.6.191/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41140/index.m3u8
 #EXTINF:-1 group-title="央视IPv4",CCTV5+
 http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv5phd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="央视IPv4",CCTV5+
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 group-title="央视IPv4",CCTV6
 https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 #EXTINF:-1 group-title="央视IPv4",CCTV7
@@ -38,9 +38,9 @@ http://59.62.8.250:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视IPv4",CCTV12
 http://223.112.219.174:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视IPv4",CCTV13
-http://223.112.219.174:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视IPv4",CCTV13
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+#EXTINF:-1 group-title="央视IPv4",CCTV13
+http://223.112.219.174:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视IPv4",CCTV14
 
 #EXTINF:-1 group-title="央视IPv4",CCTV15
