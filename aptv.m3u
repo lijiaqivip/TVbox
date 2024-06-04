@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="",CCTV1 综合
+#EXTINF:-1 group-title="",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 group-title="",CCTV1 综合
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
